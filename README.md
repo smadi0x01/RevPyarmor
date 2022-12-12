@@ -6,7 +6,7 @@
 
 - Use pyinstxtractor.py to extract the executable in Python 3.7
 - Using the extracted files, create the following directory structure: 
-<details><title>Details</title>
+<details><summary>Click Here</summary>
 
 |-- martisor.pyc
 

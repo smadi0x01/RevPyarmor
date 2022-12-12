@@ -1,12 +1,12 @@
 ## Get Started
 - <h4> Firstly download the Pytractor.py file </h4>
-- <h4> virustotal of file:</h4> <url = https://www.virustotal.com/gui/file/ccb36820cb53149b83b3f4429dbe3b0687eebe8331a0f5e6d0a36f1e23595e66/detection />
+- <h4> virustotal of file:</h4> https://www.virustotal.com/gui/file/ccb36820cb53149b83b3f4429dbe3b0687eebe8331a0f5e6d0a36f1e23595e66/detection
 
 ## Steps
 
 - Use pyinstxtractor.py to extract the executable in Python 3.7
 - Using the extracted files: 
-<details><title> create the following directory structure </title>
+<details><strong><title> create the following directory structure </strong></title>
 
 |-- martisor.pyc
 

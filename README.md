@@ -25,4 +25,4 @@
 But there's no need to use a debugger at all when CPython itself is open source. 
 - Compile Python 3.7 from source. Modify the _PyEval_EvalFrameDefault function such that it dumps the code object to disk. By doing so we do not need to bother about all the anti-debugging and encrypted stuff. This is because pyarmor decrypts the code object in memory before it hands it to the Python VM for execution.
 - Run strings on the dumped code  object. We get many base64 strings. Like this one: CkdFTkVSQVRFLUtFWS0wWDcyR09ELVVOUEFDS01FCg==
-- Finally, decode base64 | Enjoy The Movement!
+- Finally, decode base64 & Enjoy The Movement!

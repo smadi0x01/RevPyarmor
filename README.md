@@ -1,4 +1,5 @@
 ## Get Started
+
 - <h4> Firstly download the Pytractor.py file </h4>
 - <h4> virustotal of file:</h4> https://www.virustotal.com/gui/file/ccb36820cb53149b83b3f4429dbe3b0687eebe8331a0f5e6d0a36f1e23595e66/detection
 
@@ -34,3 +35,13 @@ But there's no need to use a debugger at all when CPython itself is open source.
 
 ## Note
 - This technique doesnt work for paid pyarmor or wrap (not 100% sure on wrap) protection there are better methods to reverse it, cause you can also just get the bytecode which would be way more easy then you patch it, no clue if this still works on lastest versions (the method)
+
+## ⚠️ Disclaimer :
+- I am not responsible for any misuse of this information, its only for education purposes 
+
+## 📞 Contact :
+<p align="center">
+<a href="https://instagram.com/smadi0x01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smadi" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
+<a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
+</p>

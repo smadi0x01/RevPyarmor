@@ -21,6 +21,7 @@
 
 >> One directory, Five files for running on Linux, you need _pytransform.so downloadable from https://pyarmor.dashingsoft.com/platforms.html
 </details>
+
 - Install psutil using pip (Required for pyarmor). From now on, you can just run python3.7 martisor.pyc instead of the unpackme executable.
 
 - pyarmor encrypts the code objects on disk and they are only decrypted at runtime just before they are executed. The entire logic is implemented in _pytransform.dll. There are anti-debugging/timing checks to prevent us from using a debugger to dump code objects from memory. 

@@ -31,3 +31,6 @@ But there's no need to use a debugger at all when CPython itself is open source.
 - Run strings on the dumped code  object. We get many base64 strings. Like this one: CkdFTkVSQVRFLUtFWS0wWDcyR09ELVVOUEFDS01FCg==
 
 - Finally, decode base64 & Enjoy The Movement!
+
+### Note
+- This technique doesnt work for paid pyarmor or wrap (not 100% sure on wrap) protection there are better methods to reverse it, cause you can also just get the bytecode which would be way more easy then you patch it, no clue if this still works on lastest versions (the method)

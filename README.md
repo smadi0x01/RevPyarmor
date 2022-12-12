@@ -19,7 +19,6 @@
 |-- license.lic
 -- pytransform.key
 One directory, Five files for running on Linux, you need _pytransform.so downloadable from https://pyarmor.dashingsoft.com/platforms.html
-  -------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 
 - Install psutil using pip (Required for pyarmor). From now on, you can just run python3.7 martisor.pyc instead of the unpackme executable.

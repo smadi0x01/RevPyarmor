@@ -7,8 +7,8 @@
 
 ## Steps
 
-```bash Use pytractor.py to extract the executable in Python 3.7 
-bash Using the extracted files, create the following directory structure: ```
+```bash Use pytractor.py to extract the executable in Python 3.7 ```
+bash Using the extracted files, create the following directory structure:
 <details><summary>Click Here</summary>
 
 |-- martisor.pyc
